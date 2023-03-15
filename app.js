@@ -1,10 +1,6 @@
 const jwt = require('jsonwebtoken')
 
-const accessKey = {
-    "developer_id": "607a1820-5230-4b7f-8fbd-076f1b402a48",
-    "key_id": "bfc63c5f-f8d3-4ee7-af0b-5789c939c2e4",
-    "signing_secret": "iWb7G7OwdhWYr_wmOIDzuCKsflGLnKNWBzvEe6IdnxQ"
-  }
+
 
 const data = {
   aud: 'doordash',
