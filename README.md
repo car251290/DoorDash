@@ -14,6 +14,9 @@ The DoorDash team will review your request and reach out within a few days to sc
 The DoorDash team will provide an update ASAP on your approval status. Once approved, you can generate a production key and begin requesting real deliveries immediately.
 Use the menu on the left to navigate through our documentation or jump right into the API reference using the menu in the top-right corner. Happy building!
 
+ <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
+ <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
+ 
 ## Get started (Postman)
 
 Wrapping up
