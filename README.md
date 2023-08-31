@@ -13,13 +13,15 @@ Once you've completed development and are ready to go live, you'll submit a quic
 The DoorDash team will review your request and reach out within a few days to schedule a demo of your finished product.
 The DoorDash team will provide an update ASAP on your approval status. Once approved, you can generate a production key and begin requesting real deliveries immediately.
 Use the menu on the left to navigate through our documentation or jump right into the API reference using the menu in the top-right corner. Happy building!
-
- <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
+<div>
+  <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
   <img style ="width:15%; height:30%;" src="https://pathfortune.com/wp-content/uploads/2022/05/Rlogical-Blog-Images-thumbnail-1.png">
-
-
+</div>
+<div>
   <img style="width: 15%;height:15%;" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"> 
+</div>
+  
 ## Get started (Postman)
 
 Wrapping up
