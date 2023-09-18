@@ -29,9 +29,11 @@ If you’ve made it this far, you are ready to start adding delivery capabilitie
 
 Join the Postman API Network and share your APIs to 20M+ users in the world’s largest public API hub or book a call with one of Postman API Network Evangelists to learn more.
 
+Postman can store and manage API specifications, documentation, workflow recipes, 
+test cases and results, metrics, and everything else related to APIs.
 
 ## Making Developers Productive
-Bobby Abraham manages Developer Strategy & Operations at DoorDash and is primarily focused on working with partner development teams to onboard developers onto Drive. In an effort to make the developer experience immersive and seamless, Bobby decided to leverage the power of the Postman API Network. He created a DoorDash Public Workspace that would allow DoorDash to tap into Postman’s 20 million registered users in a central place. Here, Drive could get easy access to and be discovered by API consumers and API producers, providing merchants with a cost-effective way to deliver products directly to customers on demand.
+Bobby Abraham manages Developer Strategy and operations at DoorDash and is primarily focused on working with partner development teams to onboard developers onto Drive. In an effort to make the developer experience immersive and seamless, Bobby decided to leverage the power of the Postman API Network. He created a DoorDash Public Workspace that would allow DoorDash to tap into Postman’s 20 million registered users in a central place. Here, Drive could get easy access to and be discovered by API consumers and API producers, providing merchants with a cost-effective way to deliver products directly to customers on demand.
 
 I thought the Postman Public API Network would be a great way to spread awareness of DoorDash Drive and provide a delightful experience for our developers. The Postman team was great in helping us understand how to optimize our documentation to serve our developer partners better. Bobby Abraham, Developer Strategy & Operations at DoorDash
 
