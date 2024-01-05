@@ -17,7 +17,7 @@ Use the menu on the left to navigate through our documentation or jump right int
   <img style="width: 15%;height:15%;" src="https://www.pngfind.com/pngs/m/685-6854970_react-logo-png-png-download-logo-png-reactjs.png">
  <img style="width: 15%;height:15%;" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> 
   <img style ="width:15%; height:30%;" src="https://pathfortune.com/wp-content/uploads/2022/05/Rlogical-Blog-Images-thumbnail-1.png">
-  <img  style ="width:15%; height:30%; src = "https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
+  <img  style ="width:15%; height:30%;" src = "https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj">
 </div>
 <div>
   <img style="width: 15%;height:15%;" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"> 
